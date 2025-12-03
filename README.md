@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an expense tracker with Plaid API Integration.<br>🤝 I’m looking for help with networking.<br>🌱 I’m currently learning C and data structures.<br>
+🔭 I’m currently working on an ETL pipeline on Covid Data.<br>🤝 I’m looking for help with networking.<br>🌱 I’m currently learning C and data structures.<br>
 
 
 ## 🌐 Socials:
